@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "file_api_assignment_task"
+name = "appendix_assignment_task"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
